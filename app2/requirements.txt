@@ -1,0 +1,9 @@
+mysql-python
+sqlalchemy
+Flask==0.10.1
+Flask-SQLAlchemy==1.0
+simplejson
+requests
+flask_api
+flask-mysqldb
+redis
