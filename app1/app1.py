@@ -9,7 +9,7 @@ import redis
 
 app=Flask(__name__)
 app.config['SQLALCHEMY_DATABASE_URI']='mysql://root:test@mysql:3306/expsys'
-app.config['SECRET_KEY']='MYNAMEISVIRAAJ'
+app.config['SECRET_KEY']='MYNAMEIS'
 
 db=SQLAlchemy(app)
 
